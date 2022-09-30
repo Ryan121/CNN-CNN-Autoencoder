@@ -1,0 +1,62 @@
+{
+    "filters": [
+        {
+            "value1": "128",
+            "value2": "256"
+        }
+    ],
+    "latent_dim": [
+        {
+            "value1": "150",
+            "value2": "250",
+            "value3": "200"
+        }
+    ],
+    "batch_size": [
+        {
+            "value1": "64",
+            "value2": "96",
+            "value3": "128"
+        }
+    ],
+    "kernel_size": [
+        {
+            "value1": "3",
+            "value2": "4"
+        }
+    ],
+    "window_size": [
+        {
+            "value1": "20"
+        }
+    ],
+    "regularisation_used": [
+        {
+            "value1": "2"
+        }
+    ],
+    "drop_out": [
+        {
+            "value1": "0.1",
+            "value2": "0.2"
+        }
+    ],
+    "training_type": [
+        {
+            "value2": "0"
+        }
+    ],
+    "epochs": [
+        {
+            "value1": "200",
+            "value2": "100",
+            "value3": "300"
+        }
+    ],
+    "num_folds": [
+        {
+            "value1": "3",
+            "value2": "6"
+        }
+    ]
+}
